@@ -1,0 +1,104 @@
+.banner {
+    background-image: url('../Flower\ Asset/Rectangle 9.png');
+    width: 720;
+    height: 200px;
+    background-repeat: no-repeat;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 800;
+    align-items: center;
+    padding-left: 240px;
+    padding-top: 15px;
+    padding-bottom: 315px;
+}
+
+.header {
+    align-items: center;
+}
+
+.banner-description {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 0;
+
+}
+
+.banner-title {
+    margin-bottom: 5px;
+}
+
+.btn-primary {
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+    margin-top: 0px;
+}
+
+.todays-title {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.todays-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+
+.main-class {
+    background: #FFF;
+    margin-right: 120px;
+}
+
+.first-items {
+    align-items: center;
+    margin-left: 210px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.second-items {
+    align-items: center;
+    margin-left: 280px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.flower-name {
+    color: #272727;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    margin-bottom: 5px;
+}
+
+.price {
+    color: #E55473;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 35px;
+    margin-top: 2px;
+}
