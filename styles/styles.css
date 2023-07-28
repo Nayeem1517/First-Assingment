@@ -1,7 +1,5 @@
 .banner {
     background-image: url('../Flower\ Asset/Rectangle 9.png');
-    width: 720;
-    height: 200px;
     background-repeat: no-repeat;
     color: #FFF;
     font-family: Lato;
@@ -101,4 +99,152 @@
     font-weight: 500;
     line-height: 35px;
     margin-top: 2px;
+}
+
+.btn-secondary {
+    background-color: white;
+    color: #E55473;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px 43px;
+    gap: 10px;
+    border-radius: 8px;
+    justify-content: center;
+
+}
+
+.container {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.greeting {
+    color: #E55473;
+    font-family: Ephesis;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    align-items: center;
+}
+
+.hot {
+    text-align: center;
+    width: 1440px;
+    height: 700px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    margin-left: 100px;
+}
+
+.shironam {
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.off {
+    color: #E55473;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.deals-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.time {
+    display: flex;
+    text-align: center;
+    margin-left: 450px;
+    margin-bottom: 100px;
+    margin-top: 0px;
+    padding-left: 100px;
+}
+
+.days {
+    width: 90px;
+    height: 100px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: #FFF;
+    border: 1px solid;
+}
+
+.hour {
+    width: 90px;
+    height: 100px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    border: 1px solid #E55473;
+    background: rgba(229, 84, 115, 0.05);
+}
+
+.minute {
+    width: 90px;
+    height: 100px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: #FFF;
+    border: 1px solid;
+}
+
+.secs {
+    width: 90px;
+    height: 100px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: #FFF;
+    border: 1px solid;
+}
+
+.htp {
+    margin-right: -50px;
+    margin-left: 880px;
+    margin-top: -380px;
+    margin-bottom: 8%;
+}
+
+.footer {
+    width: 1922px;
+    height: 592px;
+    flex-shrink: 0;
+    background: #111010;
+    text-align: center;
+
+}
+
+.flower {
+    color: #E55473;
+    font-family: Lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+
+}
+
+.shop {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
 }
